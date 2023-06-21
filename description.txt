@@ -1,0 +1,14 @@
+Title: File Type Analyzer
+
+Description:
+The File Type Analyzer is a Python project that utilizes the python-libmagic library to analyze and identify the file types of various files. It provides a command-line interface (CLI) where users can specify one or more files or directories and obtain detailed information about the corresponding file types.
+
+Features:
+
+File Type Detection: The project uses the python-libmagic library, which is a Python binding for the libmagic file identification library, to accurately detect the file types based on file content rather than relying on file extensions.
+
+Multiple File Support: The CLI allows users to specify individual files or entire directories to analyze. It automatically traverses directories recursively and identifies the file types of all the files within them.
+
+Detailed File Information: The project provides comprehensive information about each file, including the detected file type, MIME type, file encoding, and any additional metadata available.
+
+Output Formats: The File Type Analyzer supports different output formats, such as plain text, JSON, or CSV, allowing users to choose their preferred format for further analysis or integration with other tools.
