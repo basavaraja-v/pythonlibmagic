@@ -14,7 +14,7 @@ The project consists of the following files:
 
 To run the application, follow these steps:
 
-1. Clone the repository: `git clone [pythonlibmagic](https://github.com/royaldevops/pythonlibmagic.git)`
+1. Clone the repository: [pythonlibmagic](https://github.com/royaldevops/pythonlibmagic.git)
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the `magicapp.py` script: `python magicapp.py`
 
