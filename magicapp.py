@@ -1,7 +1,4 @@
 import magic
-
-import magic
-
 def analyze_file(file_path):
     m = magic.Magic()
     file_type = m.from_file(file_path)
